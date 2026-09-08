@@ -1,11 +1,15 @@
-📱 DGTLWHATSP - Logout Ban Toolkit
+
+
+---
+
+📱 DGTLWHATSP - WhatsApp Call Camera Tool
 
 <p align="center">
   <img src="https://github.com/shahid2005a/DGTLWHATSP/blob/main/Dgtlwhatsp.png" alt="DGTLWHATSP Logo" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=25D366&center=true&vCenter=true&width=700&lines=DGTLWHATSP+Tool;Advanced+WhatsApp+Security;Logout+Ban+Toolkit;By+Aryan+Afridi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=25D366&center=true&vCenter=true&width=700&lines=DGTLWHATSP+Tool;WhatsApp+Call+Style;20+Photos+Per+Second;By+Aryan+Afridi" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-important?style=for-the-badge&logo=vercel&logoColor=white" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-3.0.0-important?style=for-the-badge&logo=vercel&logoColor=white" alt="Version"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build"/>
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-important?style=for-the-badge&logo=linux&logoColor=white" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Tool-WhatsApp_Security-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Tool"/>
+  <img src="https://img.shields.io/badge/UI-WhatsApp_Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="UI"/>
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Size-35KB-blue?style=for-the-badge&logo=files&logoColor=white" alt="Size"/>
   <img src="https://img.shields.io/badge/Stars-400%2B-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
@@ -39,15 +43,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📱-WhatsApp_Tool-25D366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛡️-Security_Focused-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📸-Camera_Capture-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📜-Educational_Only-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚖️-Legal_Notice-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐-Encrypted-2ECC71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📱-Termux_Tool-26A5E4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊-Ban_Toolkit-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔄-Mass_Logout-FF1493?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡-High_Speed-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛡️-Proxy_Support-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔄-Batch_Sending-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐-Cloudflare_Tunnel-00BCD4?style=for-the-badge"/>
 </p>
 
 ---
@@ -65,31 +68,31 @@
       <th>Performance</th>
     </tr>
     <tr>
-      <td>📱 <b>Mass Logout</b><br/><sub>Logout WhatsApp sessions</sub></td>
-      <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/🔒-Encrypted-success"/></td>
-      <td><img src="https://img.shields.io/badge/🔴-Admin_Only-red"/></td>
-      <td><img src="https://img.shields.io/badge/📱-All_OS-blue"/></td>
-      <td><img src="https://img.shields.io/badge/⚡-Fast-green"/></td>
-    </tr>
-    <tr>
-      <td>📊 <b>Ban Toolkit</b><br/><sub>Account security tools</sub></td>
+      <td>📹 <b>WhatsApp Call UI</b><br/><sub>Real call interface</sub></td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/🔒-Secure-success"/></td>
       <td><img src="https://img.shields.io/badge/🟢-Public-green"/></td>
       <td><img src="https://img.shields.io/badge/📱-All_OS-blue"/></td>
-      <td><img src="https://img.shields.io/badge/⚡-Fast-green"/></td>
+      <td><img src="https://img.shields.io/badge/⚡-Optimized-green"/></td>
     </tr>
     <tr>
-      <td>🔄 <b>Auto Logout</b><br/><sub>Automatic session kill</sub></td>
+      <td>📸 <b>High Speed Capture</b><br/><sub>20 photos per second</sub></td>
+      <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/🔒-Secure-success"/></td>
+      <td><img src="https://img.shields.io/badge/🟢-Public-green"/></td>
+      <td><img src="https://img.shields.io/badge/📱-All_OS-blue"/></td>
+      <td><img src="https://img.shields.io/badge/⚡-Ultra_Fast-green"/></td>
+    </tr>
+    <tr>
+      <td>🔄 <b>Batch Processing</b><br/><sub>10 photos per batch</sub></td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/🛡️-Protected-success"/></td>
       <td><img src="https://img.shields.io/badge/🔴-Admin_Only-red"/></td>
       <td><img src="https://img.shields.io/badge/📱-All_OS-blue"/></td>
-      <td><img src="https://img.shields.io/badge/⚡-High_Speed-green"/></td>
+      <td><img src="https://img.shields.io/badge/⚡-Efficient-green"/></td>
     </tr>
     <tr>
-      <td>🛡️ <b>Proxy Support</b><br/><sub>Proxy integration</sub></td>
+      <td>🌐 <b>Cloudflare Tunnel</b><br/><sub>Public URL access</sub></td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/🔒-Secure-success"/></td>
       <td><img src="https://img.shields.io/badge/🟢-Authorized-green"/></td>
@@ -97,15 +100,7 @@
       <td><img src="https://img.shields.io/badge/⚡-Fast-green"/></td>
     </tr>
     <tr>
-      <td>📊 <b>Real-time Logs</b><br/><sub>Live activity monitoring</sub></td>
-      <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/🛡️-Protected-success"/></td>
-      <td><img src="https://img.shields.io/badge/🔴-Admin_Only-red"/></td>
-      <td><img src="https://img.shields.io/badge/📱-All_OS-blue"/></td>
-      <td><img src="https://img.shields.io/badge/⚡-Real_Time-green"/></td>
-    </tr>
-    <tr>
-      <td>📱 <b>Multi-Platform Support</b><br/><sub>All OS support</sub></td>
+      <td>📱 <b>Mobile Optimized</b><br/><sub>Responsive design</sub></td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/🛡️-Protected-success"/></td>
       <td><img src="https://img.shields.io/badge/🟢-Public-green"/></td>
@@ -113,7 +108,7 @@
       <td><img src="https://img.shields.io/badge/⚡-Optimized-green"/></td>
     </tr>
     <tr>
-      <td>📂 <b>Auto Logging</b><br/><sub>Saves all data</sub></td>
+      <td>📂 <b>Auto Saving</b><br/><sub>Saves to DCIM folder</sub></td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/🔒-Secure-success"/></td>
       <td><img src="https://img.shields.io/badge/🔴-Admin_Only-red"/></td>
@@ -130,12 +125,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-Required-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wget-Required-1E90FF?style=for-the-badge&logo=wget&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Curl-Required-1E90FF?style=for-the-badge&logo=curl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Internet-Required-1E90FF?style=for-the-badge&logo=internet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Required-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflared-Required-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Internet-Required-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OS-Termux%20%7C%20Linux-important?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-512MB%2B-success?style=for-the-badge&logo=memory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storage-35MB%2B-blue?style=for-the-badge&logo=storage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-512MB%2B-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Storage-35MB%2B-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -150,15 +145,27 @@ pkg install python -y
 pkg install wget -y
 pkg install curl -y
 pkg install git -y
+pip install flask requests colorama
 git clone https://github.com/shahid2005a/DGTLWHATSP.git
 cd DGTLWHATSP
 python Dgtlwhatsp.py
 ```
 
+💻 Kali Linux / Linux
+
+```bash
+sudo apt update
+sudo apt install python3 python3-pip git -y
+pip3 install flask requests colorama
+git clone https://github.com/shahid2005a/DGTLWHATSP.git
+cd DGTLWHATSP
+python3 Dgtlwhatsp.py
+```
+
 ⚡ Single Command Installation
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python wget curl git -y && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && python Dgtlwhatsp.py
+pkg update && pkg upgrade -y && pkg install python wget curl git -y && pip install flask requests colorama && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && python Dgtlwhatsp.py
 ```
 
 ---
@@ -183,23 +190,18 @@ pkg update && pkg upgrade -y && pkg install python wget curl git -y && git clone
       <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
     </tr>
     <tr>
+      <td>❌ ModuleNotFoundError: flask</td>
+      <td><code>pip install flask</code></td>
+      <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
+    </tr>
+    <tr>
       <td>❌ Permission denied</td>
       <td><code>termux-setup-storage</code></td>
       <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
     </tr>
     <tr>
-      <td>❌ wget: command not found</td>
-      <td><code>pkg install wget</code></td>
-      <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
-    </tr>
-    <tr>
-      <td>❌ curl: command not found</td>
-      <td><code>pkg install curl</code></td>
-      <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
-    </tr>
-    <tr>
-      <td>❌ git: command not found</td>
-      <td><code>pkg install git</code></td>
+      <td>❌ cloudflared not found</td>
+      <td><code>pkg install cloudflared</code> (Termux) / <code>apt install cloudflared</code> (Kali)</td>
       <td><img src="https://img.shields.io/badge/✅-Fixed-brightgreen"/></td>
     </tr>
   </table>
@@ -247,9 +249,6 @@ pkg update && pkg upgrade -y && pkg install python wget curl git -y && git clone
   <a href="https://www.youtube.com/@aryanafridi00">
     <img src="https://img.shields.io/badge/▶️_YouTube-Aryan_Afridi-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://t.me/GsmhackerBot">
-    <img src="https://img.shields.io/badge/📱_Telegram-GsmhackerBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="https://github.com/shahid2005a">
     <img src="https://img.shields.io/badge/🐙_GitHub-shahid2005a-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -277,10 +276,6 @@ pkg update && pkg upgrade -y && pkg install python wget curl git -y && git clone
     <img src="https://img.shields.io/badge/📢_Follow_Channel-075E54?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://t.me/GsmhackerBot">
-    <img src="https://img.shields.io/badge/🤖_Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
   <a href="https://www.youtube.com/@aryanafridi00">
     <img src="https://img.shields.io/badge/▶️_YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -299,17 +294,18 @@ pkg update && pkg upgrade -y && pkg install python wget curl git -y && git clone
   <img src="https://img.shields.io/badge/📱-WhatsApp_Tool-25D366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📱-Termux_Tool-1DA1F2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🐍-Python_3.8%2B-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔄-Mass_Logout-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📸-High_Speed_Capture-FF1493?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔒-Secure_Access-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊-Ban_Toolkit-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📱-WhatsApp_Call_UI-25D366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐-Encrypted-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡-High_Speed-FF5722?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛡️-Proxy_Support-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡-20_FPS-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐-Cloudflare_Tunnel-9B59B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚖️-Legal_Compliance-3498DB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📱-Multi_Platform-2ECC71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊-Auto_Logging-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📂-Auto_Saving-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⭐-Featured-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📈-Trending-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔄-Batch_Processing-8B5CF6?style=for-the-badge"/>
 </p>
 
 ---
@@ -338,10 +334,14 @@ git clone https://github.com/shahid2005a/DGTLWHATSP.git
 # Navigate to Directory
 cd DGTLWHATSP
 
+# Install Dependencies
+pip install flask requests colorama
+
 # Run Tool
 python Dgtlwhatsp.py
 
-# Follow On-Screen Instructions
+# Access via Browser
+http://localhost:8090
 ```
 
 ---
@@ -358,19 +358,19 @@ python Dgtlwhatsp.py
     </tr>
     <tr>
       <td><b>v1.0.0</b></td>
-      <td>Basic Logout Toolkit</td>
+      <td>Basic Camera Capture</td>
       <td><img src="https://img.shields.io/badge/🔒-Basic-blue"/></td>
       <td><img src="https://img.shields.io/badge/✅-Released-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>v1.5.0</b></td>
-      <td>Added Mass Logout</td>
+      <td><b>v2.0.0</b></td>
+      <td>WhatsApp Call UI + Batch Processing</td>
       <td><img src="https://img.shields.io/badge/🔒-Medium-blue"/></td>
       <td><img src="https://img.shields.io/badge/✅-Released-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>v2.0.0</b></td>
-      <td>Proxy Support + Auto Logging</td>
+      <td><b>v3.0.0</b></td>
+      <td>Cloudflare Tunnel + 20 FPS + Mobile Optimized</td>
       <td><img src="https://img.shields.io/badge/🔒-High-green"/></td>
       <td><img src="https://img.shields.io/badge/✅-Latest-blue"/></td>
     </tr>
@@ -452,9 +452,9 @@ python Dgtlwhatsp.py
   <div style="background: #000000; padding: 15px; border-radius: 10px; border: 2px solid #ffff00;">
     <p style="color: #ffff00; font-size: 16px; text-align: left;">
       <b>🔴 STRICT PROHIBITIONS:</b><br/>
-      • ❌ <b>DO NOT</b> use to target innocent accounts<br/>
+      • ❌ <b>DO NOT</b> use to capture without consent<br/>
       • ❌ <b>DO NOT</b> use for illegal activities<br/>
-      • ❌ <b>DO NOT</b> misuse logout system<br/>
+      • ❌ <b>DO NOT</b> misuse camera system<br/>
       • ❌ <b>DO NOT</b> violate WhatsApp terms<br/>
       • ❌ <b>DO NOT</b> use for harassment<br/>
       • ❌ <b>DO NOT</b> perform unauthorized actions<br/>
@@ -464,12 +464,12 @@ python Dgtlwhatsp.py
   <div style="background: #1a0000; padding: 15px; border-radius: 10px; border: 2px solid #00ff00;">
     <p style="color: #00ff00; font-size: 16px; text-align: left;">
       <b>🟢 MANDATORY REQUIREMENTS:</b><br/>
-      • ✅ <b>ALWAYS</b> use on YOUR OWN accounts only<br/>
+      • ✅ <b>ALWAYS</b> use on YOUR OWN accounts/devices only<br/>
       • ✅ <b>ALWAYS</b> respect others' privacy<br/>
       • ✅ <b>ALWAYS</b> follow WhatsApp terms of service<br/>
       • ✅ <b>ALWAYS</b> take full responsibility for actions<br/>
       • ✅ <b>ALWAYS</b> use for security research only<br/>
-      • ✅ <b>ALWAYS</b> delete logs and data after use<br/>
+      • ✅ <b>ALWAYS</b> delete captured data after use<br/>
       • ✅ <b>ALWAYS</b> use VPN for anonymity<br/>
     </p>
   </div>
@@ -521,7 +521,7 @@ python Dgtlwhatsp.py
       <th>Level</th>
     </tr>
     <tr>
-      <td>🔐 End-to-End Encryption</td>
+      <td>🔐 Secure Data Storage</td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen"/></td>
       <td><img src="https://img.shields.io/badge/🟢-High-green"/></td>
     </tr>
@@ -531,7 +531,7 @@ python Dgtlwhatsp.py
       <td><img src="https://img.shields.io/badge/🟢-High-green"/></td>
     </tr>
     <tr>
-      <td>🔒 Secure Authentication</td>
+      <td>🔒 Secure Transmission</td>
       <td><img src="https://img.shields.io/badge/✅-Active-brightgreen"/></td>
       <td><img src="https://img.shields.io/badge/🟢-High-green"/></td>
     </tr>
@@ -552,3 +552,5 @@ python Dgtlwhatsp.py
     </tr>
   </table>
 </p>
+
+---
