@@ -5,7 +5,7 @@
 📱 DGTLWHATSP - WhatsApp Call Camera Tool
 
 <p align="center">
-  <img src="https://github.com/shahid2005a/DGTLWHATSP/blob/main/Dgtlwhatsp.png" alt="DGTLWHATSP Logo" width="350"/>
+  <img src="https://github.com/shahid2005a/DGTLWHATSP/blob/main/WhatsApp%20Call/Livecall.png" alt="DGTLWHATSP Logo" width="350"/>
 </p>
 
 <p align="center">
