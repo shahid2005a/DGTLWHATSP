@@ -137,35 +137,24 @@
 
 📦 Installation Guide
 
-📱 Termux (Android)
+📱 Termux (Android) Single Command 
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install python -y
-pkg install wget -y
-pkg install curl -y
-pkg install git -y
-pip install flask requests colorama
-git clone https://github.com/shahid2005a/DGTLWHATSP.git
-cd DGTLWHATSP
-python Dgtlwhatsp.py
+pkg update -y && pkg upgrade -y && pkg install python git cloudflared python-pip unzip -y && pip install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python main.py
 ```
 
-💻 Kali Linux / Linux
+💻 Kali Linux / Linux (Cloudflare pahle install kare fir Jake Single Command install kare)
 
 ```bash
-sudo apt update
-sudo apt install python3 python3-pip git -y
-pip3 install flask requests colorama
-git clone https://github.com/shahid2005a/DGTLWHATSP.git
-cd DGTLWHATSP
-python3 Dgtlwhatsp.py
+wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
+sudo mv cloudflared-linux-amd64 /usr/local/bin/cloudflared
+sudo chmod +x /usr/local/bin/cloudflared
 ```
 
-⚡ Single Command Installation
+⚡💻 Kali Linux  Single Command 
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python wget curl git -y && pip install flask requests colorama && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && python Dgtlwhatsp.py
+sudo apt update && sudo apt upgrade -y && sudo apt install python3 python3-pip git unzip -y && pip3 install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python3 main.py
 ```
 
 ---
