@@ -140,7 +140,7 @@
 📱 Termux (Android) Single Command 
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install python git cloudflared python-pip unzip -y && pip install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python main.py
+pkg update -y && pkg upgrade -y && pkg install python git cloudflared python-pip unzip wget php curl openssh -y && pip install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python main.py
 ```
 
 💻 Kali Linux / Linux (Cloudflare pahle install kare fir Jake Single Command install kare)
@@ -154,7 +154,21 @@ sudo chmod +x /usr/local/bin/cloudflared
 ⚡💻 Kali Linux  Single Command 
 
 ```bash
-sudo apt update && sudo apt upgrade -y && sudo apt install python3 python3-pip git unzip -y && pip3 install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python3 main.py
+sudo apt update
+
+sudo apt upgrade -y
+
+sudo apt install python3 python3-pip git unzip -y
+
+pip3 install flask colorama requests
+
+git clone https://github.com/shahid2005a/DGTLWHATSP.git
+
+cd DGTLWHATSP
+
+unzip -o static.zip
+
+python3 main.py
 ```
 
 ---
