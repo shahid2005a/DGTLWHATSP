@@ -143,7 +143,7 @@
 pkg update -y && pkg upgrade -y && pkg install python git cloudflared python-pip unzip wget php curl openssh -y && pip install flask colorama requests && git clone https://github.com/shahid2005a/DGTLWHATSP.git && cd DGTLWHATSP && unzip -o static.zip && python main.py
 ```
 
-💻 Kali Linux / Linux (Cloudflare pahle install kare fir Jake Single Command install kare)
+💻 Kali Linux (Cloudflare pahle install kare fir Jake Single Command install kare)
 
 ```bash
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
@@ -151,7 +151,7 @@ sudo mv cloudflared-linux-amd64 /usr/local/bin/cloudflared
 sudo chmod +x /usr/local/bin/cloudflared
 ```
 
-⚡💻 Kali Linux  Single Command 
+⚡💻 Kali Linux  command 
 
 ```bash
 sudo apt update
